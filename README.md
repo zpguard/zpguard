@@ -1,6 +1,6 @@
 ## Hi, I'm Jannat! 👋
 she/her/hers
-- 🫧 The areas of the tech world I'm currently looking into include cybersecurity and software engineering.
+- 🫧 The areas of the tech world I'm looking into include cybersecurity and software engineering.
 - 🔭 I’m currently working on building a personal project to give me insights on data analysis for the fashion industry.
 - 🌱 I’m currently learning how to pentest in my Fundamentals of Penetration Testing class.
 - ⚙️ My coding languages are: C++, C, Java, and Python
