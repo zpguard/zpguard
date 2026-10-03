@@ -2,7 +2,7 @@
 she/her/hers
 - 🫧 The areas of the tech world I'm looking into are cybersecurity and software engineering.
 - 🌱 I’m currently learning how to pentest in my Fundamentals of Penetration Testing class.
-- ⚙️ My coding languages are: C++, C, Java, and Python
+- ⚙️ My coding languages are: C++, C, Java, Python, JavaScript, CSS, and HTML.
 <!--
 **zpguard/zpguard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
